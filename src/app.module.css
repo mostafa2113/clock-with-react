@@ -2,13 +2,14 @@ body{
     background-color: royalblue;
 }
 .timeNow{
-    background-color: tomato;
     width: 70%;
     color: white;
     height:150px;
     line-height:150px;
-    font-size: 60px;
+    font-size: 40px;
     margin:auto;
+    border:1px solid transparent;
+    border-radius: 50px;
     text-align:center;
 }
 
